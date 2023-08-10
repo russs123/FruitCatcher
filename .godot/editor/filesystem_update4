@@ -1,0 +1,12 @@
+res://basket.tscn
+res://main.gd
+res://fruit.tscn
+res://game_over_menu.tscn
+res://hud.tscn
+res://pause_menu.tscn
+res://scenes/main.tscn
+res://scenes/basket.tscn
+res://scenes/fruit.tscn
+res://scenes/hud.tscn
+res://scenes/game_over_menu.tscn
+res://scenes/pause_menu.tscn
